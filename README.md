@@ -157,6 +157,7 @@ print(classification_report(y_test,predictions))
 
 <H3>Output:</H3>
 
+
 ![image](https://github.com/ssnithyaasri/Ex-4-NN/assets/119122478/0163086f-db6b-46ce-a665-7fca1f49ff50)
 
 
@@ -192,12 +193,9 @@ print(classification_report(testing_b,predicted_values))
 
 <H3>Output:</H3>
 
+
+
 ![image](https://github.com/ssnithyaasri/Ex-4-NN/assets/119122478/0b41f059-3266-4029-a78f-856fcef594ec)
-
-
-
-
-
 
 <H3>Result:</H3>
 Thus, MLP is implemented for multi-classification using python.
